@@ -30,5 +30,3 @@ const BubbleScene = () => {
 };
 
 export default BubbleScene;
-
-
